@@ -9,7 +9,7 @@ Other related packages may be required, please install them accordingly. For gra
 
 
 ## Data, models, and embedding vectors.
-Download from [Drive](https://drive.google.com/drive/folders/1ekQUPb92nXAnHhUpsLnKCOGJpF60Fhxr?usp=sharing). 
+Download from [Drive](https://drive.google.com/drive/folders/1u5VNiYvFZaxLezK7uEsPRrIR5dtdfkHC?usp=sharing). 
 
 ## Run
 ```
