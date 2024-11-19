@@ -27,3 +27,5 @@ The datasets contain the following behaviors:
 
 ## Contact
 hailun.ding@rutgers.edu
+
+Please contact me by email, I cannot receive github notifications for some unknown reason.
